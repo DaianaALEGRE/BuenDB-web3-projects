@@ -4,7 +4,7 @@
 
 import { useState, useEffect } from 'react';
 // Importar Stellar SDK para consultar la red
-import { Server } from 'stellar-sdk';
+import { Server } from '@stellar/stellar-sdk';
 // Importar constantes
 import { HORIZON_URLS } from '../lib/constants';
 // Importar Spinner
