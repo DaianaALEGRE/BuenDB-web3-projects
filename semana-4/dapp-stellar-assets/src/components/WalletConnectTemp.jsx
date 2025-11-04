@@ -10,7 +10,7 @@ import { isConnected, getPublicKey } from '@stellar/freighter-api';
  * Componente WalletConnect
  * 
  * Propósito: Conectar la wallet Freighter del usuario
- * 
+ * W
  * Props:
  * - onConnect: Función callback que se llama cuando la wallet se conecta
  *   Recibe la public key como argumento
