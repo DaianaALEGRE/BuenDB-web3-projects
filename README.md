@@ -17,7 +17,8 @@ Este repositorio está en construcción. Los proyectos se irán agregando progre
 - Tailwind CSS 🎨
 - Stellar SDK 🌟
 - Web3 
-- Next.js 
+- Next.js  .
+
 
 ---
-> ✨ Este repositorio es parte del curso **Buen Día Builders**, impulsado por la comunidad Web3 de **Blockchain Acceleration Foundation (BAF)** y **Stellar Development Foundation.r**.
+> ✨ Este repositorio es parte del curso **Buen Día Builders**, impulsado por la comunidad Web3 de **Blockchain Acceleration Foundation (BAF)** y **Stellar Development Foundation.**.
